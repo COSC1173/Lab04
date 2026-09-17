@@ -135,13 +135,11 @@ no lower-case `a`.
 
 ## Submission Checklist
 
-- [ ] `bash tools/run_lab.sh lab04` reports 23 of 23.
 - [ ] All four coordinates can be typed on one line separated by spaces.
 - [ ] No `StringIndexOutOfBoundsException` on any input.
 
 ```bash
-git add . && git commit -m "Lab 04 complete - all 23 checks passing" && git push
-```
+
 
 ---
 
