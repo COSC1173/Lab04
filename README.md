@@ -63,6 +63,43 @@ $$
 Distance = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 $$
 
+where:
+
+- $x_1, y_1$ are the coordinates of the first point
+- $x_2, y_2$ are the coordinates of the second point
+- $d$ is the distance between the two points
+ 
+## Example
+ 
+Given:
+20
+21
+
+- $(x_1, y_1) = (2, 3)$
+- $(x_2, y_2) = (8, 11)$
+Substitute into the formula:
+
+$$
+d = \sqrt{(8 - 2)^2 + (11 - 3)^2}
+$$
+
+$$
+d = \sqrt{6^2 + 8^2}
+$$
+
+$$
+d = \sqrt{36 + 64}
+$$
+
+$$
+d = \sqrt{100}
+$$
+
+$$
+d = 10
+$$
+
+``
 **Step 2.** Print it to two decimals: `Distance: 5.00`.
 
 **Step 3.** Print `Rounded distance: 5` using `Math.round(distance)`.
