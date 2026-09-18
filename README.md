@@ -72,9 +72,6 @@ where:
 ## Example
  
 Given:
-20
-21
-
 - $(x_1, y_1) = (2, 3)$
 - $(x_2, y_2) = (8, 11)$
 Substitute into the formula:
