@@ -59,9 +59,9 @@ whitespace. Comment that choice in your code — it is a favourite examination q
 The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is calculated using:
 
 
-$
+$$
 Distance = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-$
+$$
 
 **Step 2.** Print it to two decimals: `Distance: 5.00`.
 
