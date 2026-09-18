@@ -96,6 +96,11 @@ $$
 d = 10
 $$
 
+## Convert it into Java language:
+``` Java
+double distance = Math.sqrt(Math.pow(x2-x1, 2) + Math.pow(y2-y1, 2));
+```
+
 ``
 **Step 2.** Print it to two decimals: `Distance: 5.00`.
 
